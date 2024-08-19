@@ -18,7 +18,7 @@
 - :computer: I am a competitive `programmer`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently studing to become an excellent `Front End Developer`.
+- :thinking: I’m currently studing to become an excellent `Developer`.
 - :boom: You can visit [MY WEBSITE]().
 <br>
 
